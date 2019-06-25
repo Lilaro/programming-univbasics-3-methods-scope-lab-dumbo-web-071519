@@ -14,3 +14,5 @@ def link
 end
 
 def any_phrase(phrase)
+  puts phrase.to_s
+end
